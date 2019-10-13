@@ -1,6 +1,6 @@
-## Lesson-3
+## Lesson-8
 
-Going through our folder structure for the project, breaking out homepage component into smaller components
+Starting our sign in section by creating a new sign in and sign up page, as well as start creating sign in component.
 
 # How to fork and clone
 
