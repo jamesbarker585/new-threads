@@ -1,6 +1,6 @@
-## Lesson-14
+## Lesson-16
 
-We now need to create our cart feature in our application. To start, we'll create our cartIcon and cartDropdown components. Then we'll create the necessary reducer, actions, and types associated to handling hiding and showing the carDropdown component.
+Now that we have created all the redux code for storing our data, now we are going to connect our items to add them to our cart.
 
 # How to fork and clone
 
