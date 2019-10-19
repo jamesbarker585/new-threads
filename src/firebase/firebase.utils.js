@@ -2,7 +2,7 @@ import firebase from 'firebase/app';
 import 'firebase/firestore';
 import 'firebase/auth';
 
-const config ={
+const config = {
   apiKey: "AIzaSyBTCj62kE7hWMBwc2KO0SzNo_aHpl6foaI",
   authDomain: "new-threads.firebaseapp.com",
   databaseURL: "https://new-threads.firebaseio.com",
